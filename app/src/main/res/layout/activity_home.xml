@@ -9,8 +9,16 @@
                 tools:context=".HomeActivity">
 
     <TextView
+        android:id="@+id/hello_world"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/hello_world"/>
+
+    <TextView
+        android:id="@+id/contacts"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/hello_world"
+        android:layout_centerHorizontal="true"/>
 
 </RelativeLayout>

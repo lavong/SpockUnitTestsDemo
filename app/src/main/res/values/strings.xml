@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">SpockUnitTestsDemo</string>
-
     <string name="hello_world">Hello groovy world!</string>
+    <string name="contacts_json_endpoint">https://raw.githubusercontent.com/lavong/SpockUnitTestsDemo/master/assets/contacts.json</string>
 </resources>
