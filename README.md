@@ -7,7 +7,7 @@ Sample code for [Unit testing][1] your Android application using [Groovy][2] and
   * data fetching using android async
   * unit testing using groovy and spock framework
 
-See [my blog post][3] for more details.
+See [my blog post][4] for more details.
 
   [1]: https://en.wikipedia.org/wiki/Unit_testing
   [2]: http://www.groovy-lang.org/
